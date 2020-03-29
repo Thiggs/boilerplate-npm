@@ -4,6 +4,7 @@
 	"description": "going through FCC tutorials!",
 	"keywords": ["freecodecamp", "tutorial", "coding", "fun", "NPM"],
 	"license": "Do as you wish, just change the author :-)",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
