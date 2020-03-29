@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Tyler Higgs",
 	"description": "going through FCC tutorials!",
+	"keywords": ["freecodecamp", "tutorial", "coding", "fun", "NPM"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
